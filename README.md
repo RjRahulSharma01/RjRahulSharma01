@@ -1,6 +1,6 @@
 ### Hi, I'm Rahul Sharma 👋
 
-**Marketer who ships.** 13 years in content, social and digital growth. Now I build the automations and AI tools I used to brief.
+**Marketer who ships. Building AI content pipelines, n8n automations & Claude agents. Founder @ Instant Production · Co-founder & CMO @ Hireonix AI · IIM-A
 
 - 🎬 Founder, [Instant Production](https://instantproduction.in), a media agency
 - 🤖 Co-founder & CMO, [Hireonix AI](https://hireonixai.com)
