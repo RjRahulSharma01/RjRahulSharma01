@@ -17,18 +17,17 @@ AI content pipelines · n8n automations · Claude skills & MCP servers · market
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-### Building in public
-
-I'm publishing the systems I run every day, one repo at a time:
+### Featured
 
 | Project | What it does |
 |---------|--------------|
-| `n8n-marketing-automations` | My production n8n workflows, ready to import |
-| `blog-autopilot` | A blog that researches, drafts, checks and publishes itself, with a human approval step |
-| `linkedin-voice-writer` | Drafts LinkedIn posts in my own voice from a link or an idea |
-| `claude-skills-for-marketers` | The Claude skills and connector setups I use for marketing work |
-| `ai-search-visibility` | Tracks how AI assistants mention and cite a brand |
-| `awesome-ai-marketing` | My curated list of AI tools and workflows for marketers |
+| [Instant_Production](https://github.com/RjRahulSharma01/Instant_Production) | My agency's website and blog engine: scheduled auto-publishing, pre-flight checks, daily analytics snapshots and a custom admin |
+| [claude-skills-for-marketers](https://github.com/RjRahulSharma01/claude-skills-for-marketers) | Claude skills for briefs, LinkedIn posts, repurposing, SEO briefs and India ad compliance |
+| [awesome-ai-marketing](https://github.com/RjRahulSharma01/awesome-ai-marketing) | My curated list of AI tools and workflows for marketers |
+
+### Coming next
+
+`n8n-marketing-automations` · `blog-autopilot` · `linkedin-voice-writer` · `ai-search-visibility`
 
 ### How I work
 
